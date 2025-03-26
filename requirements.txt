@@ -1,0 +1,17 @@
+accelerate==1.4.0
+bitsandbytes==0.45.3
+datasets==3.3.2
+evaluate==0.4.3
+flatbuffers==25.2.10
+pandas==2.2.3
+peft==0.14.0
+protobuf
+sentencepiece
+tensorboard
+tf-keras==2.19.0
+torch>=2.6.0+cu126
+transformers==4.50.0.dev0
+tqdm==4.67.1
+trl==0.15.2
+wrapt==1.17.0
+
