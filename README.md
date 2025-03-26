@@ -6,4 +6,4 @@ Below are the results of the fine-tuning process:
 
 ![results](1.png)
 
-Check out the full article at: link-to-website
+Check out the full article at: [medium](https://medium.com/@eduardovalenzuelaparga/tiny-llms-may-be-enough-7f618d8aea04)
